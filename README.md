@@ -1,4 +1,4 @@
-# open-source-SOC
+# Open-Source-SOC Solution 
 This project is about the open source soc solution 
 
 Here i attch all the resource, report and ppt 

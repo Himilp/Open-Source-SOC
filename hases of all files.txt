@@ -1,0 +1,11 @@
+HASH Values (SHA 256) of the all the files
+
+check the HASH value of all the file once you merge file 
+1. wazuh:- 75c9a8662a9cdd5f1f9b90d20a799997baf53891f498b4663af5c80143337dc2
+2. test wazuh:- 29725ebc910cdf0290c2f291d341a15f0193d74e02565981c325d89decaf4302
+3. windows:- 84944c9f398b99e1e7633e19ee493bf86028a5e3ba5a83581882fc13cd8cef13
+4. ubuntu:- d03a220a2c059b777a135cfd2d481d6f10af252e328d98045a32e45f916c36eb
+5. ubuntu test @MISP:- 29d83aa630ddde5cc7006944b90d38320114f32baa51b0af93abb4ebafa0721b
+6. Thehive & Cortext:- 5b60e4a769cb44e2e3938037d3fa53966668cbd24d62db8bb5876226c83a05bc
+
+after merging the zip compare the hase value with this website https://emn178.github.io/online-tools/sha256_checksum.html
